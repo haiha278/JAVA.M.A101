@@ -1,3 +1,5 @@
+package fa.training.entities;
+
 public class SavingAccount {
     private double annualInterestRate;
     private double savingsBalance;

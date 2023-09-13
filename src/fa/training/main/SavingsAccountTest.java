@@ -1,4 +1,8 @@
-public class Main {
+package fa.training.main;
+
+import fa.training.entities.SavingAccount;
+
+public class SavingsAccountTest {
     public static void main(String[] args) {
         SavingAccount saver1 = new SavingAccount();
         SavingAccount saver2 = new SavingAccount();
